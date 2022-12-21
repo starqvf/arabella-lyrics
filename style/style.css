@@ -1,0 +1,111 @@
+body{
+    background-color: rgb(48, 49, 51);
+}
+
+.div{
+    text-shadow: 7px 3px 5px rgb(0, 0, 0);
+    color: rgb(189, 189, 189);
+    font-size: 25px;
+    text-align: left;
+    font-family: "Unbounded";
+    font-weight: bolder;
+    text-shadow: black;
+    font-style: italic; 
+    font-variant: small-caps;
+}
+
+.arabella{
+    margin-left: 1cm;
+    margin-top: 0.4cm;
+}
+
+.am{
+    margin-left: 5cm;
+    margin-top: 0.3cm;
+}
+
+
+.polaroid{
+    margin-left: -13cm;
+    margin-top: -3cm;
+}
+
+
+.mirrorball{
+    margin-left: -14cm;
+    margin-top: -3.5cm;
+}
+.lyrics{
+    font-size: 14px;
+    font-family: "Unbounded";
+    font-weight: 300; 
+    color: whitesmoke;
+    margin-top: -380px;
+    margin-left: 15cm;
+
+}
+
+.lyrics2{
+    font-size: 14px;
+    font-family: "Unbounded";
+    font-weight: 300; 
+    color: whitesmoke;
+    margin-top: 1cm;
+    margin-left: 15cm;
+
+}
+
+
+.lyrics3{
+    font-size: 14px;
+    font-family: "Unbounded";
+    font-weight: 300; 
+    color: whitesmoke;
+    margin-top: 1cm;
+    margin-left: 15cm;
+}
+
+.lyrics4{
+    font-size: 14px;
+    font-family: "Unbounded";
+    font-weight: 300; 
+    color: whitesmoke;
+    margin-top: 1cm;
+    margin-left: 15cm;
+}
+
+.lyrics5{
+    font-size: 14px;
+    font-family: "Unbounded";
+    font-weight: 300; 
+    color: whitesmoke;
+    margin-top: -1cm;
+    margin-left: 0cm;
+}
+
+.lyrics6{
+    font-size: 14px;
+    font-family: "Unbounded";
+    font-weight: 300; 
+    color: whitesmoke;
+    margin-top: 1cm;
+    margin-left: 0cm;
+}
+
+.lyrics7{
+    font-size: 14px;
+    font-family: "Unbounded";
+    font-weight: 300; 
+    color: whitesmoke;
+    margin-top: -2.8cm;
+    margin-left: 0cm;
+}
+
+.lyrics8{
+    font-size: 14px;
+    font-family: "Unbounded";
+    font-weight: 300; 
+    color: whitesmoke;
+    margin-top: 1.3cm;
+    margin-left: 0cm;
+}
